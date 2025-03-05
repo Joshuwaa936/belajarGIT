@@ -8,10 +8,10 @@
 7. Tugas-finalProject
 
 # Daftar Perintah Git
-- git clone [URL] → Menyalin repositori dari GitHub ke lokal.
-- git checkout -b [branch] → Membuat branch baru.
-- git add . → Menambahkan file ke staging area.
-- git commit -m "[pesan]" → Menyimpan perubahan di Git.
-- git checkout main → Beralih ke branch utama.
-- git merge [branch] → Menggabungkan branch ke main.
-- git push origin main → Mengirim perubahan ke GitHub.
+1 git clone [URL] → Menyalin repositori dari GitHub ke lokal.
+2 git checkout -b [branch] → Membuat branch baru.
+3 g3it add . → Menambahkan file ke staging area.
+4 git commit -m "[pesan]" → Menyimpan perubahan di Git.
+5 git checkout main → Beralih ke branch utama.
+6 git merge [branch] → Menggabungkan branch ke main.
+7 git push origin main → Mengirim perubahan ke GitHub.
